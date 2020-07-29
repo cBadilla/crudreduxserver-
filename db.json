@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Jugo de Zanahoria",
+      "precio": 2
+    },
+    {
+      "id": 2,
+      "nombre": "Jugo de Naranja",
+      "precio": 2
+    },
+    {
+      "nombre": "Jugo de Frutas",
+      "precio": 2,
+      "id": 3
+    },
+    {
+      "nombre": "Rib Eye 800g",
+      "precio": 30,
+      "id": 4
+    },
+    {
+      "nombre": "Jugo de Fresa",
+      "precio": 3,
+      "id": 5
+    },
+    {
+      "nombre": "Lomo a la parrilla",
+      "precio": 20,
+      "id": 6
+    }
+  ]
+}
